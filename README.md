@@ -1,1 +1,1 @@
-# astro-vs-gatsby-vs-nextjs
+# astro-vs-gatsby
