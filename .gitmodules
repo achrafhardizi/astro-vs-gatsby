@@ -3,3 +3,4 @@
 	url = git@github.com:achrafhardizi/gatsby-blog-benchmark.git
 [submodule "astro-blog-benchmark"]
 	path = astro-blog-benchmark
+	url = git@github.com:achrafhardizi/astro-blog-benchmark.git
