@@ -1,0 +1,6 @@
+[submodule "astro-vs-gatsby-vs-nextjs"]
+	path = astro-vs-gatsby-vs-nextjs
+	url = git@github.com:achrafhardizi/astro-vs-gatsby-vs-nextjs.git
+[submodule "gatsby-blog-benchmark"]
+	path = gatsby-blog-benchmark
+	url = git@github.com:achrafhardizi/gatsby-blog-benchmark.git
